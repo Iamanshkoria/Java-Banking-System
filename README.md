@@ -38,10 +38,4 @@ To run the project locally, follow these steps:
 2. Compile the Java files.
 3. Run the Main.java file.
 
-## License
-
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
