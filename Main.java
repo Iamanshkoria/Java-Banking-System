@@ -31,10 +31,7 @@ class BankingManagementSystem {
         this.accounts = new HashMap<>();
         this.loggedInUsers = new HashMap<>();
         this.adminCredentials = new HashMap<>();
-        adminCredentials.put("Ansh", "58");
-        adminCredentials.put("Jatin", "50");
-        adminCredentials.put("Ravi", "57");
-        adminCredentials.put("Pratap", "43");
+        adminCredentials.put("Admin", "123");
         this.scanner = new Scanner(System.in);
         loadAccountsFromFile("acc.txt");
     }
